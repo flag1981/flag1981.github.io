@@ -1,0 +1,9 @@
+{
+  "name": "dynamic-import",
+  "scripts": {
+    "build": "webpack --config webpack.config.js --profile"
+  },
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
